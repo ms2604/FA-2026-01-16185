@@ -5,3 +5,11 @@ C:\Users\UPN\Desktop\clases\FA-16185\SE3-C\obj\Debug\SE3-C.csproj.AssemblyRefere
 C:\Users\UPN\Desktop\clases\FA-16185\SE3-C\obj\Debug\SE3-C.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\clases\FA-16185\SE3-C\obj\Debug\SE3-C.exe
 C:\Users\UPN\Desktop\clases\FA-16185\SE3-C\obj\Debug\SE3-C.pdb
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\bin\Debug\SE3-C.exe.config
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\bin\Debug\SE3-C.exe
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\bin\Debug\SE3-C.pdb
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\obj\Debug\SE3-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\obj\Debug\SE3-C.exe.config
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\obj\Debug\SE3-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\obj\Debug\SE3-C.exe
+C:\Users\UPN\Videos\FA-2026-01-16185\SE3-C\obj\Debug\SE3-C.pdb
